@@ -18,7 +18,7 @@
   - [Merge Branches](#merge-branches)
   - [View Commit History](#view-commit-history)
   - [Clone Repository](#clone-repository)
-## Create Empty `README.md` inside folder
+## Create Empty `README` inside folder
 ### Command Prompt (CMD)
 ```cmd
 nul > README.md
@@ -99,5 +99,6 @@ git log
 ```bash
 git clone YOUR_REMOTE_REPOSITORY_URL
 ```
+
 
 
