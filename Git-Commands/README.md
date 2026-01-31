@@ -1,5 +1,5 @@
 ## Table of Contents
-- [Create Empty `README.md` inside folder](#create-empty-readme-md-inside-folder)
+- [Create Empty `README.md` inside folder](#create-empty-readme-.md-inside-folder)
   - [Command Prompt (CMD)](#command-prompt-cmd)
   - [Git Bash](#git-bash)
 - [Git Commands for Repository Management](#git-commands-for-repository-management)
@@ -99,3 +99,4 @@ git log
 ```bash
 git clone YOUR_REMOTE_REPOSITORY_URL
 ```
+
